@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Introduce&fontAlign=50)
+![Waving](https://capsule-render.vercel.app/api?type=venom&height=300&color=C7FB04&text=코드농부&fontAlignY=50&rotate=5&animation=fadeIn&fontColor=98B03D&strokeWidth=2&stroke=000000)
 
 
 ### 🙇 안녕하세요, full-stack 프로그래머 이진언입니다.
